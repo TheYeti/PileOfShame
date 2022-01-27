@@ -1,12 +1,20 @@
 {
   "name": "pileofshame",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Node desktop app for tracking and organizing painted and unpainted miniatures",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheYeti/PileOfShame"
+  },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Matt 'The Yeti' Burnett <matt@theyeticave.net> (http://theyeticave.net)",
+  "license": "ISC",
+  "bugs": {
+    "url" : "https://github.com/TheYeti/PileOfShame/issues"
+  },
+  "homepage": "https://github.com/TheYeti/PileOfShame#readme"
 }
